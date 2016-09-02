@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'Afterglow_Example' do
+  pod 'Afterglow', :path => '../'
+  pod 'RandomColorSwift'
+
+  target 'Afterglow_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

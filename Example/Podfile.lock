@@ -1,0 +1,20 @@
+PODS:
+  - Afterglow (0.1.0):
+    - RandomColorSwift
+  - RandomColorSwift (0.1.0)
+
+DEPENDENCIES:
+  - Afterglow (from `../`)
+  - RandomColorSwift
+
+EXTERNAL SOURCES:
+  Afterglow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Afterglow: 6f9b33318488b2d39065ef69fd7aa440c75712c1
+  RandomColorSwift: b2e95d6d3670def6d2f907ec7b7041138b268ac9
+
+PODFILE CHECKSUM: b0478bce9e7a062d7a264830b86b250556f4b1de
+
+COCOAPODS: 1.0.1
